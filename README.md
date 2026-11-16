@@ -8,6 +8,16 @@
   <a href="https://mirai-web-mauve.vercel.app"><img src="https://img.shields.io/badge/Portafolio-14B8A6?style=for-the-badge&logo=astro&logoColor=white" alt="Portafolio"></a>
 </div>
 
+<p align="center">
+  <a href="https://mirai-web-mauve.vercel.app">
+    <picture>
+      <source srcset="assets/readme-intro.webp" type="image/webp">
+      <img src="assets/readme-intro.gif" alt="38 agentes de IA arman la página y forman mi rostro y la marca MIRAI 未来" width="720">
+    </picture>
+  </a>
+  <br><sub>La intro de <a href="https://mirai-web-mauve.vercel.app">mi web</a>: agentes que construyen la página y forman mi rostro.</sub>
+</p>
+
 ---
 
 ### 👋 Sobre mí
