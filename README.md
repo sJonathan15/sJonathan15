@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner-github.png" alt="Jonathan Cañar · IA y desarrollo web · Quito, Ecuador" width="100%"></p>
+
 # Hola, soy Jonathan (Jack) 👋
 
 Desarrollador de **IA y web** en Quito, Ecuador. Construyo sistemas con agentes de IA, visión por computadora
